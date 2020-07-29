@@ -30,71 +30,35 @@ My name is Chad and I am 23 years old. I attained my Bachelor degree in software
       end_date: null
     }
   ],
-  languges: {
+  languges: [{
     javascript: {
-      frameworks: [
-        'VueJS'
-      ]
+      frameworks: ['VueJS']
     },
     Python: {
-      frameworks: [
-        'Django',
-        'Tensorflow'
-      ]
+      frameworks: ['Django', 'Tensorflow']
     },
     PHP: {
-      frameworks: [
-        'Laravel',
-        'Symfony'
-      ]
+      frameworks: ['Laravel', 'Symfony']
     },
     Rust: {
-      frameworks: [
-        'Rocket'
-      ]
+      frameworks: ['Rocket']
     },
     Golang: {
-      frameworks: [
-        'Chi',
-        'Gorilla',
-        'Gin'
-      ]
+      frameworks: ['Chi', 'Gorilla', 'Gin']
     },
     CSS: {
-      frameworks: [
-        'Bootstrap',
-        'Tailwind.css'
-      ]
+      frameworks: ['Bootstrap', 'Tailwind.css']
     },
     HTML: {},
     Bash: {},
     SQL: {},
     Java: {}
-  },
-  dev_ops: [
-    'Docker',
-    'Kubernetes',
-    'AWS',
-    'Docker'
-  ],
-  databases: [
-    'PostgreSQL',
-    'MySQL',
-    'Redis',
-    'MongoDB'
-  ],
-  operating_systems: [
-    'Linux',
-    'MacOS',
-    'Windows'
-  ],
-  version_control: [
-    'Git',
-    'SVN'
-  ],
-  other: [
-    'Elasticsearch'
-  ]
+  }],
+  dev_ops: ['Docker', 'Kubernetes', 'AWS', 'Docker'],
+  databases: ['PostgreSQL', 'MySQL', 'Redis', 'MongoDB'],
+  operating_systems: ['Linux', 'MacOS', 'Windows'],
+  version_control: ['Git', 'SVN'],
+  other: ['Elasticsearch']
 }
 
 ```
