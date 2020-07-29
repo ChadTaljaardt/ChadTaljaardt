@@ -47,7 +47,7 @@ Hello, my name is Chad Taljaardt. I attained my Bachelor's degree in Software En
       frameworks: ['Chi', 'Gorilla', 'Gin']
     },
     CSS: {
-      frameworks: ['Bootstrap', 'Tailwind.css']
+      frameworks: ['Bootstrap', 'Tailwind.css', 'SASS/SCSS']
     },
     HTML: {},
     Bash: {},
