@@ -31,7 +31,7 @@ My name is Chad and I am 23 years old. I attained my Bachelor degree in software
     }
   ],
   languges: [{
-    javascript: {
+    Javascript: {
       frameworks: ['VueJS']
     },
     Python: {
