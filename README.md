@@ -62,11 +62,3 @@ My name is Chad and I am 23 years old. I attained my Bachelor degree in software
 }
 
 ```
-<!-- <a href="https://www.linkedin.com/in/chad-taljaardt-480687190/">
-  <img align="left" alt="Chad's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
-
-
-<br />
-
-![Github Stats - Chad Taljaardt](https://github-readme-stats.vercel.app/api?username=ChadTaljaardt&show_icons=true)
