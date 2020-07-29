@@ -54,7 +54,7 @@ My name is Chad and I am 23 years old. I attained my Bachelor degree in software
     SQL: {},
     Java: {}
   }],
-  dev_ops: ['Docker', 'Kubernetes', 'AWS', 'Docker'],
+  dev_ops: ['Docker', 'Kubernetes', 'AWS', 'Digital Ocean'],
   databases: ['PostgreSQL', 'MySQL', 'Redis', 'MongoDB'],
   operating_systems: ['Linux', 'MacOS', 'Windows'],
   version_control: ['Git', 'SVN'],
