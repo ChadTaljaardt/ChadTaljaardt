@@ -7,7 +7,7 @@
 
 <div>
  <p>
-My name is Chad and I am 23 years old. I attained my Bachelor degree in software Engineering in 2017 and have been wokring commerically for 3 years. I have been programming most of my life at this point and thoroughly enjoy it. I like to learn new technologies and skills and have experience in many different languages. 
+Hello, my name is Chad Taljaardt. I attained my Bachelor's degree in Software Engineering in 2017 and have been working commercially for three years. I have been programming most of my life at this point and thoroughly enjoy it. I like to learn new technologies and skills and have experience in many different languages. 
 </p>
 </h4>
 </div>
