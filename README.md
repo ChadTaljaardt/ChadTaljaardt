@@ -13,7 +13,7 @@ Hello, my name is Chad Taljaardt. I attained my Bachelor's degree in Software En
 </div>
 
 ```js
-{
+const user_profile = {
   name: 'Chad Taljaardt',
   email: 'chadtaljaardt@protonmail.com',
   experience: [
