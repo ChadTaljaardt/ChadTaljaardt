@@ -18,7 +18,7 @@ const user_profile = {
   email: 'chadtaljaardt@protonmail.com',
   experience: [
     {
-      company_name: 'Altia-ABM',
+      company_name: 'Postback LLC',
       position: 'Founder & Software Engineer',
       start_date: '02/01/2019',
       end_date: null
