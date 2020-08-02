@@ -7,7 +7,11 @@
 
 <div>
  <p>
-Hello, my name is Chad Taljaardt. I attained my Bachelor's degree in Software Engineering in 2017 and have been working commercially for three years. I have been programming most of my life at this point and thoroughly enjoy it. I like to learn new technologies and skills and have experience in many different languages. 
+Hi! I am a Full Stack Software Engineer located in the RTP area in North Carolina. I earned my Bachelor of Software Engineering degree at Edinburgh Napier University in 2017 and have since had 3+ years of experience working in the field.
+
+I am proficient in Javascript, Python, Golang, PHP, Node.js, and more but I enjoy expanding my knowledge and building on experience with languages I already know and languages I don't have commercial experience in yet.
+
+I have worked on many private projects (one of which involves machine learning) and commercial projects which I believe have allowed me to become a diverse developer. 
 </p>
 </h4>
 </div>
